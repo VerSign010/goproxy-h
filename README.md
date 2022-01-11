@@ -11,7 +11,7 @@
 
 2、登陆好后，点击
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/VerSign010/goproxy-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/fgdx/goproxy-heroku)
 
 3、执行以下四个步骤，见下图：
 
